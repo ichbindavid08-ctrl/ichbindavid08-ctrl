@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, I’m Davud Mammadzada 👋
 
-<!--
-**ichbindavid08-ctrl/ichbindavid08-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer | C++ | Python | Cybersecurity
 
-Here are some ideas to get you started:
+I’m an IT enthusiast interested in software development, computer science, and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m focusing on improving my programming skills, learning problem-solving techniques, and building practical projects.
+
+🚀 Currently Learning
+
+* C++
+* Python
+* Data Structures & Algorithms
+* Cybersecurity Fundamentals
+* Git & GitHub
+
+🎯 Goals
+
+* Become a skilled software developer
+* Build real-world programming projects
+* Develop a strong foundation in computer science
+* Explore cybersecurity and software security
+
+🛠️ Technologies & Tools
+
+* C++
+* Python
+* Git
+* GitHub
+* VS Code
+
+📫 Connect with me
+
+* LinkedIn: [Your LinkedIn URL]
+* GitHub: [Your GitHub URL]
