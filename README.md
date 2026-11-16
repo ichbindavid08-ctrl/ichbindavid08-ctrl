@@ -11,7 +11,7 @@ Currently, I’m focusing on improving my programming skills, learning problem-s
 * C++
 * Python
 * Data Structures & Algorithms
-* Cybersecurity Fundamentals
+* Cybersecurity Fundamentals 
 * Git & GitHub
 
 🎯 Goals
