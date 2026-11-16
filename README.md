@@ -29,7 +29,4 @@ Currently, I’m focusing on improving my programming skills, learning problem-s
 * GitHub
 * VS Code
 
-📫 Connect with me
 
-* LinkedIn: [Your LinkedIn URL]
-* GitHub: [Your GitHub URL]
